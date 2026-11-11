@@ -6,10 +6,16 @@ venv/
 *.py[cod]
 node_modules/
 **/node_modules/
+build/
+**/build/
 dist/
 **/dist/
 *.log
 *.timestamp-*.mjs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
 
 # Local data and personal documents
 *.db
